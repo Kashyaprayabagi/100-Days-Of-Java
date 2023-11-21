@@ -1,19 +1,22 @@
 import java.util.Scanner;
 
 public class Funcitons {
-    // public static int rectangle_area(int l,int b) {
-    //     int area = l * b;
-    //     return area;
-    // }
+    public static int rectangle_area(int l,int b) {
+        int area = l * b;
+        return area;
+    }
 
     // public static void main (String args[]) {
     //     Scanner sc = new Scanner(System.in);
-
+        
+    //     System.out.print("Enter Length: ");
     //     int len = sc.nextInt();
+
+    //     System.out.print("Enter Width: ");
     //     int wid = sc.nextInt();
 
-    //     System.out.println(rectangle_area(len, wid));
-    // }
+    //     System.out.println("The area is: "+rectangle_area(len, wid));
+    // } }
 
     //finding factorial
 
